@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bookfinder</string>
+    <string name="book_cover">cover</string>
+</resources>
